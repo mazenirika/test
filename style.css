@@ -1,0 +1,33 @@
+@import url(fonts/remixicon.css);
+
+.lin{
+background-color: rgb(158, 221, 250);
+font-size: 150px;
+color: blue;
+font-family: 'Courier New', Courier, monospace;
+position: absolute;
+margin: 200px 500px;
+padding: 20px 100px;
+border-radius: 50px;
+box-shadow: rgb(13, 139, 241) 25px 20px 1px 2px , rgb(13, 139, 241) -5px -5px 2px 2px;
+    text-decoration:none;
+}
+.lin:active{
+    color: blue;
+    box-shadow: rgb(13, 139, 241) 15px 10px 2px 2px ;
+        text-decoration:none;
+}
+.lin:visited{
+    color: blue;
+    text-decoration:none;
+}
+.lin:hover{
+background-color:rgb(111, 214, 120);
+}
+.mmm{
+    display: inline-block;
+position: fixed;
+right: 70px;
+bottom: 5px;
+font-size: 250px;
+}
